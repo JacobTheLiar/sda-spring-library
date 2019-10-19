@@ -3,6 +3,7 @@ package pl.jacob_the_liar.sda;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import pl.jacob_the_liar.sda.config.AppConfig;
 import pl.jacob_the_liar.sda.library.Menu;
 
 

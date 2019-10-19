@@ -1,4 +1,4 @@
-package pl.jacob_the_liar.sda;
+package pl.jacob_the_liar.sda.config;
 
 
 import org.springframework.context.annotation.ComponentScan;
@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Configuration;
  * *
  ******************************************************/
 @Configuration
-@ComponentScan("pl.jacob_the_liar.sda")
+@ComponentScan("pl.jacob_the_liar.sda.library")
 public class AppConfig{
     
 }
